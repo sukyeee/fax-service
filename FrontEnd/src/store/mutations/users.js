@@ -15,4 +15,3 @@ export default {
   },
 
 };
-SET_RECEIVE_LIST
