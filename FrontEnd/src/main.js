@@ -16,3 +16,5 @@ new Vue({
   router,
   store,
 }).$mount("#app");
+
+// 커밋테스트
